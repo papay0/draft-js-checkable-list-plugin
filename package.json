@@ -46,7 +46,7 @@
   "license": "MIT",
   "dependencies": {
     "decorate-component-with-props": "^1.1.0",
-    "draft-js-checkable-list-item": "^3.0.3",
+    "draft-js-checkable-list-item": "https://github.com/papay0/draft-js-checkable-list-item.git",
     "immutable": "~3.7.4",
     "union-class-names": "^1.0.0"
   },
